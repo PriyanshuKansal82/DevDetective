@@ -13,7 +13,7 @@ A React application that fetches and displays GitHub profile information using G
 - **Social Media Links**: Display user's connected profiles
 
 ## 🛠 Technologies Used
-- **Frontend**: React
+- **Frontend**: JavaScript
 - **Styling**: Tailwind CSS
 - **State Management**: Context API
 - **API**: GitHub REST API
