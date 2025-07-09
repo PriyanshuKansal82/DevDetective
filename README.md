@@ -1,33 +1,34 @@
-# GitHub Profile Viewer
+# Dev Detective - GitHub Profile Explorer 🔍
 
-A lightweight web application to fetch and display GitHub profile information using GitHub's API.
+A React application that fetches and displays GitHub profile information using GitHub's API.
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-green)](https://yourusername.github.io/repo-name/)
-[![GitHub](https://img.shields.io/badge/-Source_Code-blue)](https://github.com/yourusername/repo-name)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-green)](http://priyanshukansal82.github.io/DevDetective/)
+[![GitHub Repo](https://img.shields.io/badge/-Source_Code-blue)](https://github.com/PriyanshuKansal82/DevDetective)
 
-## Features
-- 🔍 Search any GitHub username
-- 📊 View profile details and statistics
-- 🌗 Toggle between light/dark mode
-- 📱 Fully responsive design
-- 🔗 Social media links display
+## ✨ Features
+- **GitHub Profile Search**: Lookup any GitHub user by username
+- **Detailed Statistics**: View repositories, stars, followers, and more
+- **Theme Switching**: Toggle between light/dark modes
+- **Responsive Design**: Works on all devices
+- **Social Media Links**: Display user's connected profiles
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- GitHub REST API
+## 🛠 Technologies Used
+- **Frontend**: React
+- **Styling**: Tailwind CSS
+- **State Management**: Context API
+- **API**: GitHub REST API
 
-## How to Use
+## � How to Use
 1. Enter a GitHub username in the search field
-2. View profile details including:
-   - Avatar
-   - Bio
-   - Repository count
-   - Followers/Following
-   - Social links
+2. View comprehensive profile details including:
+   - Profile avatar and bio
+   - Repository count and details
+   - Follower/Following statistics
+   - Contribution graphs
 
-## Setup
+## 🚀 Quick Setup
 ```bash
-git clone https://github.com/yourusername/repo-name.git
-cd repo-name
+git clone https://github.com/PriyanshuKansal82/DevDetective.git
+cd DevDetective
+npm install
+npm run dev
