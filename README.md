@@ -14,7 +14,7 @@ A React application that fetches and displays GitHub profile information using G
 
 ## 🛠 Technologies Used
 - **Frontend**: JavaScript
-- **Styling**: Tailwind CSS
+- **Styling**: CSS
 - **API**: GitHub API
 
 ## � How to Use
