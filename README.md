@@ -7,7 +7,7 @@ A React application that fetches and displays GitHub profile information using G
 
 ## ✨ Features
 - **GitHub Profile Search**: Lookup any GitHub user by username
-- **Detailed Statistics**: View repositories, stars, followers, and more
+- **Detailed Statistics**: View repositories, followers and more
 - **Theme Switching**: Toggle between light/dark modes
 - **Responsive Design**: Works on all devices
 - **Social Media Links**: Display user's connected profiles
